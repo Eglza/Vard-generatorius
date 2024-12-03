@@ -1,0 +1,6 @@
+torch
+streamlit
+pyngrok
+beautifulsoup4
+requests
+pandas
